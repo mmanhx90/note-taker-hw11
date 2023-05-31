@@ -2,9 +2,7 @@ const express = require('express');
 const api = require('./routes/apiRoutes');
 const page = require('./routes/pageRoutes');
 const { urlencoded } = require('express') 
-
 const PORT = process.env.PORT || 3001;
-
 const app = express();
 
 app.use(express.json());
