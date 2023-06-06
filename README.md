@@ -6,8 +6,8 @@
 
   A simple application to keep track of notes.
 
-  ![alt text](assets/images/Screenshot1.png)
-  ![alt text](assets/images/Screenshot2.png)
+  ![alt text](./public/assets/images/Screenshot1.png)
+  ![alt text](./public/assets/images/Screenshot2.png)
  
  
   # Table of Contents:
